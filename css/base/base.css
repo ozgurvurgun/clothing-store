@@ -8,6 +8,10 @@
   font-family: "jost", sans-serif;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 ul,
 ol {
   margin: 0;
@@ -95,7 +99,7 @@ input[type="number"]::-webkit-inner-spin-button {
   opacity: 1;
 }
 
-.img-fluid{
+.img-fluid {
   width: 100%;
 }
 /*! base end  */
